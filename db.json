@@ -1,0 +1,68 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "autor": "Stephen King",
+      "titulo": "IT - A coisa",
+      "numpag": 1104,
+      "editor": "Suma",
+      "tema": "Terror"
+    },
+    {
+      "id": 2,
+      "autor": "Ludwig Von Mises",
+      "titulo": "Marxismo Desmascarado",
+      "numpag": 159,
+      "editor": "Vide",
+      "tema": "Ciências Sociais"
+    },
+    {
+      "id": 3,
+      "autor": "Murray N. Rothbard",
+      "titulo": "Anatomia do estado",
+      "numpag": 80,
+      "editor": "LVM Editora",
+      "tema": "Ciências Sociais"
+    },
+    {
+      "id": 4,
+      "autor": "Murray N. Rothbard",
+      "titulo": "Por uma nova liberdade: O manifesto libertário",
+      "numpag": 402,
+      "editor": "LVM Editora",
+      "tema": "Ciências Sociais"
+    },
+    {
+      "id": 5,
+      "autor": "Hans-Hermann Hoppe",
+      "titulo": "Democracia - O Deus que falhou",
+      "numpag": 372,
+      "editor": "LVM Editora",
+      "tema": "Ciências Sociais"
+    },
+    {
+      "id": 6,
+      "autor": "Murray N. Rothbard",
+      "titulo": "O que o governo fez com o nosso dinheiro?",
+      "numpag": 105,
+      "editor": "LVM Editora",
+      "tema": "Ecônomia"
+    },
+    {
+      "id": 7,
+      "autor": "Murray N. Rothbard",
+      "titulo": "A grande depressão americana",
+      "numpag": 378,
+      "editor": "LVM Editora",
+      "tema": "Economia"
+    },
+    {
+      "id": 8,
+      "autor": "F. A. Hayek",
+      "titulo": "O caminho da servidão",
+      "numpag": 232,
+      "editor": "LVM Editora",
+      "tema": "Ciências Sociais"
+    }
+  ]
+}
